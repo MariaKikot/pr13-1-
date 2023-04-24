@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Pr13(1)\Pr13(1)\obj\Debug\net6.0-windows\Pr13(1).csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Pr13(1)\Pr13(1)\obj\Debug\net6.0-windows\WindowsFormsApp35.Form1.resources
+C:\Users\USER\source\repos\Pr13(1)\Pr13(1)\obj\Debug\net6.0-windows\Pr13(1).csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Pr13(1)\Pr13(1)\obj\Debug\net6.0-windows\Pr13(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Pr13(1)\Pr13(1)\obj\Debug\net6.0-windows\Pr13(1).AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Pr13(1)\Pr13(1)\obj\Debug\net6.0-windows\Pr13(1).AssemblyInfo.cs
+C:\Users\USER\source\repos\Pr13(1)\Pr13(1)\obj\Debug\net6.0-windows\Pr13(1).csproj.CoreCompileInputs.cache
